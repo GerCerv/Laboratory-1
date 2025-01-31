@@ -1,4 +1,4 @@
-# Factorial API
+# Introduction to FastAPI
 
 This is a simple FastAPI application that calculates the factorial of a given number.
 
@@ -19,7 +19,7 @@ pip install fastapi uvicorn
 To start the FastAPI server, run the following command:
 
 ```bash
-uvicorn main:app --reload
+uvicorn lab1:app --reload
 ```
 
 This will start the server, and the API will be available at `http://127.0.0.1:8000`.
