@@ -64,5 +64,5 @@ FastAPI automatically generates interactive API documentation:
 - ReDoc: [http://127.0.0.1:8000/redoc](http://127.0.0.1:8000/redoc)
 
 ## License
-This project is licensed under the MIT License.
+
 
